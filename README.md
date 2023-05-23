@@ -39,3 +39,9 @@ In Final Model Design:
 	EIN column is dropped. 3 hidden input layers are made with values 10, 8 and 6 and activation unit is “relu” and “sigmoid” and activation output layer is “sigmoid”. Epochs value as 30. Accuracy of this model is around 76%.
 
 Summary: In 3 designs, the model accuracy increased from 72% to 76%. Total layers used in these models is from 2 to 3 hidden input layers with activation units as relu and sigmoid. 
+
+3 code:
+
+First model design - Starter_Code.ipynb
+Second model design - AlphabetSoupCharity_Optimization.ipynb
+Third model design - AlphabetSoupCharity_Optimization_final.ipynb
