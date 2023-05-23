@@ -40,7 +40,7 @@ In Final Model Design:
 
 Summary: In 3 designs, the model accuracy increased from 72% to 76%. Total layers used in these models is from 2 to 3 hidden input layers with activation units as relu and sigmoid. 
 
-3 code:
+3 code file:
 
 First model design - Starter_Code.ipynb
 Second model design - AlphabetSoupCharity_Optimization.ipynb
